@@ -1,0 +1,30 @@
+💻 PRINT LIBRARY IN C++
+TO USE THIS SYNTAX OFF LIBRARY IS:
+
+PRINT: print("hello worlds");
+OUTPUT IN MACOS:
+hello worlds%
+
+OUTPUT IN WINDOWS:
+hello worlds
+
+PRINTLN: println("hello worlds")
+OUTPUT IN MACOS:
+hello worlds
+
+OUTPUT IN WINDOWS:
+hello worlds
+
+HOW TO COMPILER IT
+
+WHILE YOU USING CLANG:
+clang++ main.cpp -lprint -o test;
+
+WHILE YOU USING GCC:
+gcc main.cpp -lprint -o test;
+
+
+NOTE: IT CAN ONLY RUN ON MACOS; THERE IS NO VERSION FOR WINDOWS YET, SO IT CANNOT RUN ON WINDOWS!!!
+
+Copyright by Dez Dev! 
+Creator by: Dez Dev!
